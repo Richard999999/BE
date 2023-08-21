@@ -2,3 +2,4 @@ node_modules
 notes-api-webserverF.pem
 .env
 .prod.env
+migrations
